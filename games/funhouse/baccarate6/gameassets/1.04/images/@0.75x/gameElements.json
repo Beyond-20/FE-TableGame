@@ -1,0 +1,140 @@
+{"frames": {
+
+"bankerTotalBG":
+{
+	"frame": {"x":1927,"y":123,"w":86,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":52},
+	"sourceSize": {"w":86,"h":52}
+},
+"bct_winbg":
+{
+	"frame": {"x":429,"y":1026,"w":487,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":487,"h":118},
+	"sourceSize": {"w":487,"h":118}
+},
+"element":
+{
+	"frame": {"x":3,"y":3,"w":1920,"h":518},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1920,"h":518},
+	"sourceSize": {"w":1920,"h":518}
+},
+"extraCardsSpace":
+{
+	"frame": {"x":3,"y":724,"w":326,"h":301},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":326,"h":301},
+	"sourceSize": {"w":326,"h":301}
+},
+"gradcover":
+{
+	"frame": {"x":1927,"y":3,"w":116,"h":116},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":116,"h":116},
+	"sourceSize": {"w":116,"h":116}
+},
+"leftcardsHolder":
+{
+	"frame": {"x":3,"y":1029,"w":203,"h":287},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":287},
+	"sourceSize": {"w":203,"h":287}
+},
+"playerBankerTitle":
+{
+	"frame": {"x":3,"y":1320,"w":731,"h":250},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":731,"h":250},
+	"sourceSize": {"w":731,"h":250}
+},
+"playerIcon":
+{
+	"frame": {"x":2017,"y":123,"w":21,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":24},
+	"sourceSize": {"w":21,"h":24}
+},
+"playerTotalBG":
+{
+	"frame": {"x":1927,"y":179,"w":86,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":52},
+	"sourceSize": {"w":86,"h":52}
+},
+"rightcardsHolder":
+{
+	"frame": {"x":210,"y":1029,"w":215,"h":206},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":215,"h":206},
+	"sourceSize": {"w":215,"h":206}
+},
+"timerborder":
+{
+	"frame": {"x":333,"y":724,"w":144,"h":147},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":147},
+	"sourceSize": {"w":144,"h":147}
+},
+"timercircle":
+{
+	"frame": {"x":333,"y":875,"w":144,"h":147},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":147},
+	"sourceSize": {"w":144,"h":147}
+},
+"topchairs":
+{
+	"frame": {"x":3,"y":525,"w":1920,"h":195},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1920,"h":195},
+	"sourceSize": {"w":1920,"h":195}
+},
+"winnerBGDealer":
+{
+	"frame": {"x":210,"y":1239,"w":303,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":303,"h":70},
+	"sourceSize": {"w":303,"h":70}
+},
+"winnerBGPlayer":
+{
+	"frame": {"x":429,"y":1148,"w":303,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":303,"h":70},
+	"sourceSize": {"w":303,"h":70}
+},
+"winnerBGTie":
+{
+	"frame": {"x":517,"y":1222,"w":303,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":303,"h":70},
+	"sourceSize": {"w":303,"h":70}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "gameElements.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "0.75",
+	"smartupdate": "$TexturePacker:SmartUpdate:ffa79f6e4b74601aeea4adfa387c8832:1ffaf4712d492494f032553115e242da:d4c9f6938a9e79974262d6740d5ac280$"
+}
+}

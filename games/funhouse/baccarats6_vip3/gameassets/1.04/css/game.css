@@ -1,0 +1,49 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-color: #000000;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.definitions div {
+    margin-bottom: 10px;
+}
+
+h4.game-rules{
+    font-weight: bold;
+}
+
+.mode-of-play, .how-to-play{
+    margin-top: 20px;
+}
+
+.mb-10{
+    margin-bottom: 10px;
+}
+
+table{
+    border: 2px solid;
+}
+
+td{
+    border: 2px solid;
+    padding: 5px;
+}
+
+.non-commission-baccarat-paytable table{
+    width: 40%;
+}
+
+@media (max-width: 815px) and (orientation: portrait){
+    .non-commission-baccarat-paytable table{
+        width: 100%;
+    }
+}

@@ -1,0 +1,28 @@
+{"frames": {
+
+"baccaratbg":
+{
+	"frame": {"x":3,"y":3,"w":1920,"h":1080},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1920,"h":1080},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"baccaratbg_P":
+{
+	"frame": {"x":3,"y":1087,"w":1080,"h":1920},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1080,"h":1920},
+	"sourceSize": {"w":1080,"h":1920}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "gamebg.jpg",
+	"format": "RGB888",
+	"size": {"w":2048,"h":4096},
+	"scale": "0.75",
+	"smartupdate": "$TexturePacker:SmartUpdate:91f1f4a63d64ce4fa8583850c4889bf3:d561bfa22dd858c241740dc29d14a2b3:fa4e88ba2afa71201134e11a65240a0d$"
+}
+}

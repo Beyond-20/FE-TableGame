@@ -1,0 +1,17 @@
+{
+  "userId" : "User1000",
+  "token" : "AFWEQREADFASDF34234fqweqr32",
+  "matchDetails" : [
+    {"leagueName":"PREMIER LEAGUE", "country":"England","startTime":"2022-05-17T07:24:37", "team1":{"name":"Manchester City","icon":"man_city_icon.png"}, "team2":{"name":"Arsenal", "icon": "arsenal_icon.png"}},
+    {"leagueName":"BUNDESLIGA", "country":"Spain","startTime":"2022-05-17T07:12:30", "team1":{"name":"Barcelona","icon":"barcelona_icon.png"}, "team2":{"name":"Atletico", "icon": "atletico_icon.png"}},
+    {"leagueName":"SUPER LEAGUE", "country":"England","startTime":"2022-05-17T07:24:37", "team1":{"name":"Manchester City","icon":"man_city_icon.png"}, "team2":{"name":"Arsenal", "icon": "arsenal_icon.png"}},
+    {"leagueName":"BRAZILIA LEAGUE", "country":"England","startTime":"2022-05-17T07:24:37", "team1":{"name":"Manchester City","icon":"man_city_icon.png"}, "team2":{"name":"Arsenal", "icon": "arsenal_icon.png"}},
+    {"leagueName":"INDIAN FOOTBALL LEAGUE", "country":"England","startTime":"2022-05-17T07:24:37", "team1":{"name":"Manchester City","icon":"man_city_icon.png"}, "team2":{"name":"Arsenal", "icon": "arsenal_icon.png"}},
+  ],
+  "wallet" : {
+    "balance" : 10500,
+    "currency" : "USD"
+  }
+}
+
+
